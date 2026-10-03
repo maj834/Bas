@@ -1,7 +1,7 @@
-# Aile Bank
+# Boş Bank
 
-Eğlence amaçlı, limit takipli oyuncak kart uygulaması. Gerçek bir banka değildir.
+Şaka uygulaması: gerçek banka değildir, para ile ilgisi yoktur.
 
-Açılışta kredi kartı başvurusu yapılır; sorulara göre limit belirlenir.
+Boş Yapma Kartı başvurusunda sorulara göre aylık boş yapma kotası verilir. Söylenen her kelime 1 boş yapma hakkı harcar.
 
 Gizli panel: logoya art arda 5 kez dokun, PIN (varsayılan 0000).
